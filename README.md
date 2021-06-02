@@ -7,7 +7,7 @@ The code allows to get corner plots with optimal parameters. The uncertainty is 
 
 Most of the data analysis was performed using python 3.7.4. 
 
-& Python packages included:
+ Python packages included:
 * numpy [v 1.15.1]
 * matplotlib [v 2.2.3]
 * corner [v 2.1.0] 
