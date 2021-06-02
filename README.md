@@ -21,6 +21,11 @@ Most of the data analysis was performed using python 3.7.4.
 
 Code was written and execuded on Ubuntu 18.04.4 LTS
 
+Computer: Intel(R) Core(TM) i7
+Architecture: x86_64
+64-bit processor
+Operating System information: GNU/Linux
+
 # Installation
 
 All python packages should be easily being installed via pip [https://pypi.org/project/pip/] e.g. pip install <package_name>
