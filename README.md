@@ -7,11 +7,11 @@ The code allows to get corner plots with optimal parameters. The uncertainty is 
 
 Most of the data analysis was performed using python 3.7.4. 
 
-Python packages included:
- numpy [v 1.15.1]
- matplotlib [v 2.2.3]
- corner [v 2.1.0] 
- emcee* [v 3.0rc2]
+* Python packages included:
+** numpy [v 1.15.1]
+** matplotlib [v 2.2.3]
+** corner [v 2.1.0] 
+** emcee [v 3.0rc2] (ref.1)
   
 
-* Foreman-Mackey, D., Hogg, D. W., Lang, D. & Goodman, J. emcee: The MCMC Hammer. Publications ASP 125, 306 (2013). 
+[1] Foreman-Mackey, D., Hogg, D. W., Lang, D. & Goodman, J. emcee: The MCMC Hammer. Publications ASP 125, 306 (2013). 
