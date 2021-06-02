@@ -34,7 +34,7 @@ All data to run the individual scripts should be within the respective /data/fol
 
 Print in terminal
 
-> python <name of script>.py
+ python <name of script>.py
  
  
  
