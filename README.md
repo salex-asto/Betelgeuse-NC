@@ -36,7 +36,8 @@ All python packages should be easily being installed via pip [https://pypi.org/p
 
 # Data 
 
-All data to run the individual scripts should be within the respective /data/folders. 
+All necessary data are provided. 
+
 
 # How to run 
 
